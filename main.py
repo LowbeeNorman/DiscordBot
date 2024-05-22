@@ -1,5 +1,6 @@
 # This code is based on the following example:
 # https://discordpy.readthedocs.io/en/stable/quickstart.html#a-minimal-bot
+# Most code was written by Caleb Norman, and last updated on 5/21/24
 
 import os
 import discord
