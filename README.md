@@ -1,3 +1,5 @@
+# The following was not entirely written by Caleb Norman, a template from replit.com was used as a starting point
+
 # Python Discord Bot
 
 This is a starting point for making your own Discord bot using Python and the [discordpy](https://discordpy.readthedocs.io/) library.
